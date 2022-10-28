@@ -50,6 +50,9 @@ class Stack {
   public int getSize() {
     return top + 1;
   }
+  
+  
+  
 
   // check if the stack is empty
   public Boolean isEmpty() {
